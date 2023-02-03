@@ -3,7 +3,7 @@
 - 
 -  I have experience in Data analysis in Python and   Web development as well
 -
-- 📫 How to reach me ... Stephanie Tayo on Linked in
+- 📫 How to reach me ... Stephanie Tayo on Linked in orStephanie7tayo@gmail.com 
 
 <!---
 StephanieTayo/StephanieTayo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
