@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @StephanieTayo
-- 👀 I’m interested in Software development and im practicing Java.
--  I have experience in Data analysis in Python and   Web development
+- 👀 I’m interested in Software Engineering using Java. I try to post my projects as i continue to develop my skills.
+- 
+-  I have experience in Data analysis in Python and   Web development as well
 -
 - 📫 How to reach me ... Stephanie Tayo on Linked in
 
