@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StephanieTayo
 - 👀 I’m interested in Software Development. I try to post my projects as i continue to develop my skills and learn.  
-- Strong expertise in data validation and analysis through both front-end and back-end components, and a history of implementing successful projects using Java, JavaScript, React, Spring, Python, MS SQL, MySQL, Git, VS Code, and AWS.
+- Strong expertise in data validation and analysis through both front-end and back-end components, and a history of implementing successful projects using Java, JavaScript (React, Vue, Ang), SpringBoot, Python, MS SQL, MySQL, Git, VS Code, and AWS.
 
 - I have a proven track record of implementing successful projects. In addition, my unique background as an artist (Artbytayo.com) with strong creative abilities sets me apart as I bring a fresh perspective to problem-solving, as well as my experience collaborating with diverse technical and cross-functional teams to achieve outstanding results.
 
